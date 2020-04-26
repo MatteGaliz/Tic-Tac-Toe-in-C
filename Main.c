@@ -192,7 +192,7 @@ void runGame()
             }
             else
             {
-                printf("Computer winss");
+                printf("Computer wins");
             }
         }
         if (!hasEmptySquare(board))
